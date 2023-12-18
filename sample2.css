@@ -1,0 +1,270 @@
+.inbox1{
+   
+ height: 100px;
+ background-color:white;
+ margin:10px 20px;
+
+}
+.a1{
+    
+   padding: 0px;
+   margin: 0px;
+   font-weight: bold;
+}
+
+.a2{
+    /* margin-left: 150px; */
+    padding-left: 20px;
+    margin: 0px;
+    text-transform: uppercase;
+    font-family: Comic Sans MS;
+    color: gray;
+    font-size: 10px;
+   
+}
+.inbox2{
+   
+    min-height: 300px;
+    background-color:#5f9dd8;
+    overflow: hidden;
+    
+   }
+   .inbox3{
+   
+    min-height: 200px;
+    /* background-color:rgb(229, 231, 240); */
+   
+   }
+   .inbox4{
+    height: 300px;
+    background-color:#5f9dd8;
+    text-align: center;
+
+    
+   
+   }
+
+.sample2{
+   background-color:#5f9dd8;
+
+}
+.a3{
+    color:white;
+    margin-top: 100px;
+}
+.a4{
+    color:white;
+}
+.sample4{
+    background-color: #5f9dd8;
+    
+}
+.a5{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 15px;
+    padding: top;
+}
+.a6{
+    text-align: center;
+    color: black;
+    margin: top 15px; ;
+    padding:top;
+}
+.line1{
+    background-color: aliceblue;
+    height: 2px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+.aa{
+    color: #5f9dd8 !important;
+    font-weight: bold;
+}
+.line2{
+    background-color:rgba(248, 238, 238, 0.828);
+    height: 2px; 
+    width: 120px;
+    margin: auto;
+}
+.inbox3{
+    text-align: center;
+}
+.a7{
+    color: white;
+    font-size: 20px;
+}
+.a8{
+    color: white;
+    font-size: 20px;
+}
+.a9{
+    color: white;
+    font-size: 20px;
+}
+   .ac{
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 20px 20px;
+    
+   }
+   .ad{
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 20px 20px;
+    
+    
+   }
+   .ae{
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 20px 20px;
+   
+    
+   }
+   .line3{
+    background-color: whitesmoke;
+    height: 2px;
+    width: 100px;
+    margin: auto;
+   }
+   .line4{
+    background-color: whitesmoke;
+    height: 2px;
+    width: 100px;
+    margin: auto;
+   }
+   .line5{
+    background-color: whitesmoke;
+    height: 2px;
+    width: 100px;
+    margin: auto;
+   }
+   .a11{
+    color: white;
+   }
+   .inbox5{
+    height: 300px;
+    background-color:hsl(0deg 0% 19.61%);
+   }
+   .sample5{
+    background-color:hsl(0deg 0% 19.61%) ;
+   }
+   .a12{
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 25px;
+   }
+   .a13{
+    color:whitesmoke;
+    font-size: 15px;
+    text-align: center;
+   }
+   .a14{
+    color: whitesmoke;
+    font-size: 15px;
+    text-align: center;
+   }
+   .a15{
+    color: whitesmoke;
+    font-size: 15px;
+    text-align: center;
+   }
+   .a16{
+    color: whitesmoke;
+    font-size: 15px;
+    text-align: center;
+   }
+   .inbox5{
+    text-align: center;
+   }
+   .aa{
+    margin-top: 20px;
+   }
+   .inbox6{
+    /* min-height: 150px; */
+    background-color: rgb(122, 27, 27);
+   }
+   .a17{
+    color: black;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 10px;
+   }
+   .ax{
+    width: 100%;
+   }
+   .line6{
+    background-color:gainsboro;
+    height: 2px;
+    width: 120px;
+    margin: auto;
+    margin-bottom: 30px;
+   }
+   .inbox7{
+    background-color:hsl(0deg 0% 19.61%);
+    min-height: 300px;
+   }
+   .sample7{
+    background-color:hsl(0deg 0% 19.61%);
+    margin-top: 30px;
+   }
+   .a18{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 15px;
+    margin-top: 30px;
+   }
+   .a19{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 10px;
+   }
+   .a20{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 15px;
+    margin-top: 25px;
+
+   }
+   .inbox7{
+    text-align: center;
+   }
+   .inbox8{
+    background-color: white;
+    height: 200px;
+    text-align: center;
+    margin-top: 20px;
+   }
+   .a21{
+    font-size: 10px;
+    color:grey;
+   }
+   .a22{
+    font-size: 50px;
+   }
+   .a23{
+    font-size: 10px;
+    color: gray;
+    
+   }
+   .a24{
+    font-size: 12px;
+    color: grey;
+    text-align: center;
+    margin-top: 20px;
+   }
+   .cd{
+    font-size: 10px;
+   }
+   @media(max-width:575px){
+    .a3{
+        margin-top: 34px;
+    }
+   }
